@@ -6,3 +6,6 @@ colorscheme molokai
 
 " Insert spaces when using tab
 set expandtab
+
+" Number of space characters for a tab
+set tabstop=4
