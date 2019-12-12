@@ -12,3 +12,6 @@ set tabstop=4
 
 " Number of space characters for indentation
 set shiftwidth=4
+
+" Display line numbers
+set number
