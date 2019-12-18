@@ -16,6 +16,9 @@ set shiftwidth=4
 " Copy indent from current line when starting a new line
 set autoindent
 
+" Smart autoindenting when starting a new line
+set smartindent
+
 " Display line numbers
 set number
 
