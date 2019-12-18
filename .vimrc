@@ -13,6 +13,9 @@ set tabstop=4
 " Number of space characters for indentation
 set shiftwidth=4
 
+" Copy indent from current line when starting a new line
+set autoindent
+
 " Display line numbers
 set number
 
