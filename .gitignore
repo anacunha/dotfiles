@@ -1,11 +1,2 @@
-# Compiled class files
-*.class
-
-# PackageFiless
-*.jar
-
-# Maven
-target/
-
-# JetBrains
-.idea/
+# macOS
+.DS_Store
