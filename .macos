@@ -1,0 +1,2 @@
+# Save screenshots on ~/Pictures/Screenshots
+defaults write com.apple.screencapture location ${HOME}/Pictures/Screenshots
