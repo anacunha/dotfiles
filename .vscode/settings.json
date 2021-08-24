@@ -1,4 +1,5 @@
 {
+    "editor.minimap.enabled": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "terminal.integrated.fontFamily": "MesloLGS NF",
