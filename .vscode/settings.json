@@ -3,4 +3,5 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.activityBar.visible": false,
 }
