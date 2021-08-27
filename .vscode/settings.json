@@ -2,6 +2,7 @@
     "editor.minimap.enabled": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": false,
