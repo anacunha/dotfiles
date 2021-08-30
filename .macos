@@ -1,2 +1,5 @@
+# Remove shadow from screenshots
+defaults write com.apple.screencapture disable-shadow true
+
 # Save screenshots on ~/Pictures/Screenshots
 defaults write com.apple.screencapture location ${HOME}/Pictures/Screenshots
