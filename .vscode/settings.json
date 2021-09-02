@@ -6,5 +6,6 @@
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Atom One Dark",
     "workbench.statusBar.visible": false,
 }
