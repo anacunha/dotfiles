@@ -7,6 +7,7 @@
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
+    "window.zoomLevel": 2,
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.statusBar.visible": false,
