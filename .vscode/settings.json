@@ -1,5 +1,6 @@
 {
     "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
