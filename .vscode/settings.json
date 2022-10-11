@@ -9,5 +9,6 @@
     "window.zoomLevel": 2,
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": false,
 }
