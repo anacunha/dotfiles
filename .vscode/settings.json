@@ -9,7 +9,7 @@
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "window.zoomLevel": 2,
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.location": "hidden",
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
