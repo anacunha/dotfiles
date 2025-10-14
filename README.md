@@ -21,5 +21,5 @@ ln -sv ~/.dotfiles/.vscode/settings.json ${HOME}/Library/Application\ Support/Co
 ## macOS
 
 ```shell
-./.macos
+.dotfiles/.macos
 ```
