@@ -5,6 +5,8 @@ git clone git@github.com:anacunha/dotfiles.git ~/.dotfiles
 ```
 
 ```shell
+ln -sv ~/.dotfiles/.aws/amazonq/mcp.json ~/.aws/amazonq/mcp.json
+
 ln -sv ~/.dotfiles/.gitignore ~/.gitignore
 ln -sv ~/.dotfiles/.gitconfig ~/.gitconfig
 
