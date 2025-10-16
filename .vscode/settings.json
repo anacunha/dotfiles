@@ -7,15 +7,12 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "telemetry.telemetryLevel": "off",
-    "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
-    "window.zoomLevel": 1,
-    // "workbench.activityBar.location": "hidden",
-    // "workbench.colorTheme": "Atom One Dark",
-    // "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
-    // "workbench.statusBar.visible": false,
     // "emmet.includeLanguages": {
     //     "javascript": "javascriptreact"
     // },
