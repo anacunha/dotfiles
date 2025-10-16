@@ -12,6 +12,7 @@
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Dracula Theme",
     "workbench.iconTheme": "vscode-icons",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.startupEditor": "none",
     // "emmet.includeLanguages": {
     //     "javascript": "javascriptreact"
