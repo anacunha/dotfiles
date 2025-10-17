@@ -14,6 +14,7 @@
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "window.zoomLevel": 2,
+  "workbench.activityBar.location": "hidden",
   "workbench.colorTheme": "Dracula Theme",
   "workbench.iconTheme": "vscode-icons",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
