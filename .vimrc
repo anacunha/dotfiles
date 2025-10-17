@@ -1,8 +1,8 @@
 " Enable syntax highlighting
 syntax enable
 
-" Use molokai colorscheme
-colorscheme molokai
+" Use dracula colorscheme
+colorscheme dracula
 
 " Insert spaces when using tab
 set expandtab
