@@ -1,5 +1,6 @@
 {
   "chat.disableAIFeatures": true,
+  "editor.accessibilitySupport": "off",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "CaskaydiaCove Nerd Font Mono, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
@@ -16,7 +17,10 @@
   "workbench.colorTheme": "Dracula Theme",
   "workbench.iconTheme": "vscode-icons",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "terminal.integrated.env.osx": {
+    "Q_NEW_SESSION": "1"
+  }
   // "emmet.includeLanguages": {
   //     "javascript": "javascriptreact"
   // },
