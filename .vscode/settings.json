@@ -1,5 +1,6 @@
 {
     "chat.disableAIFeatures": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.fontFamily": "CaskaydiaCove Nerd Font Mono, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.formatOnSave": false,
