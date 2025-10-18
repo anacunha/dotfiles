@@ -6,6 +6,7 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.trimFinalNewlines": true,
