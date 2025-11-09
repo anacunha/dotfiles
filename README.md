@@ -20,6 +20,13 @@ ln -sv ~/.dotfiles/.vimrc ~/.vimrc
 ln -sv ~/.dotfiles/.vscode/settings.json ${HOME}/Library/Application\ Support/Code/User/settings.json
 ```
 
+## Kiro
+
+```shell
+ln -sv ~/.dotfiles/.kiro/settings ${HOME}/.kiro/settings
+ln -sv ~/.dotfiles/.kiro/User/settings.json ${HOME}/Library/Application\ Support/Kiro/User/settings.json
+```
+
 ## macOS
 
 ```shell
