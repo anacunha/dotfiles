@@ -11,6 +11,11 @@
       "args": ["fastmcp", "run", "https://knowledge-mcp.global.api.aws"],
       "disabled": false
     },
+    "strands-agents": {
+      "command": "uvx",
+      "args": ["strands-agents-mcp-server"],
+      "disabled": false
+    },
     "vercel": {
       "command": "npx",
       "args": ["mcp-remote", "https://mcp.vercel.com"],
