@@ -18,7 +18,7 @@
   "workbench.startupEditor": "none",
   "kiroAgent.agentAutonomy": "Supervised",
   "kiroAgent.mcpApprovedEnvVars": ["GITHUB_PERSONAL_ACCESS_TOKEN"],
-  "kiroAgent.modelSelection": "claude-sonnet-4.5",
+  "kiroAgent.modelSelection": "claude-opus-4.6",
   "kiroAgent.notifications.agent.success": true,
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": false
