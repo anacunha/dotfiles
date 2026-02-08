@@ -1,23 +1,13 @@
 {
   "mcpServers": {
+    "aws-knowledge": {
+      "command": "uvx",
+      "args": ["fastmcp", "run", "https://knowledge-mcp.global.api.aws"],
+      "disabled": false
+    },
     "fetch": {
       "command": "uvx",
       "args": ["mcp-server-fetch"],
-      "disabled": false,
-      "autoApprove": ["fetch"]
-    },
-    "aws-knowledge-mcp": {
-      "url": "https://knowledge-mcp.global.api.aws",
-      "disabled": false
-    }
-    "strands-agents": {
-      "command": "uvx",
-      "args": ["strands-agents-mcp-server"],
-      "disabled": false
-    },
-    "vercel": {
-      "command": "npx",
-      "args": ["mcp-remote", "https://mcp.vercel.com"],
       "disabled": false
     },
     "github": {
@@ -33,7 +23,17 @@
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN}"
       },
-      "disabled": false
+      "disabled": true
+    },
+    "strands-agents": {
+      "command": "uvx",
+      "args": ["strands-agents-mcp-server"],
+      "disabled": true
+    },
+    "vercel": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://mcp.vercel.com"],
+      "disabled": true
     }
   }
 }
