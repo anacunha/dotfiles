@@ -13,13 +13,12 @@
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "window.zoomLevel": 2,
-  "workbench.iconTheme": "vscode-icons",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "workbench.startupEditor": "none",
   "kiroAgent.agentAutonomy": "Supervised",
   "kiroAgent.mcpApprovedEnvVars": ["GITHUB_PERSONAL_ACCESS_TOKEN"],
   "kiroAgent.modelSelection": "claude-opus-4.6",
   "kiroAgent.notifications.agent.success": true,
-  "prettier.singleQuote": true,
-  "prettier.jsxSingleQuote": false
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true
 }
