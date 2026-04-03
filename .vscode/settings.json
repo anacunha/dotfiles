@@ -7,6 +7,9 @@
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.trimFinalNewlines": true,
@@ -20,12 +23,6 @@
   "workbench.iconTheme": "vscode-icons",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "workbench.startupEditor": "none",
-  "terminal.integrated.env.osx": {
-    "Q_NEW_SESSION": "1"
-  },
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": false
-  // "emmet.includeLanguages": {
-  //     "javascript": "javascriptreact"
-  // },
 }
