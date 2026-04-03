@@ -14,6 +14,8 @@
   "explorer.confirmDragAndDrop": false,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
   "telemetry.telemetryLevel": "off",
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
@@ -23,6 +25,4 @@
   "workbench.iconTheme": "vscode-icons",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "workbench.startupEditor": "none",
-  "prettier.singleQuote": true,
-  "prettier.jsxSingleQuote": false
 }
