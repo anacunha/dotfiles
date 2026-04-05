@@ -6,11 +6,10 @@
       "disabled": false,
       "autoApprove": ["fetch"]
     },
-    "aws-knowledge-mcp-server": {
-      "command": "uvx",
-      "args": ["fastmcp", "run", "https://knowledge-mcp.global.api.aws"],
+    "aws-knowledge-mcp": {
+      "url": "https://knowledge-mcp.global.api.aws",
       "disabled": false
-    },
+    }
     "strands-agents": {
       "command": "uvx",
       "args": ["strands-agents-mcp-server"],
