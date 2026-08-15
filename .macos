@@ -3,3 +3,6 @@ defaults write com.apple.screencapture disable-shadow -bool true
 
 # Save screenshots on ~/Pictures/Screenshots
 defaults write com.apple.screencapture location ${HOME}/Pictures/Screenshots
+
+# Disable the blue on-screen Caps Lock indicator
+sudo defaults write /Library/Preferences/FeatureFlags/Domain/UIKit.plist redesigned_text_cursor -dict-add Enabled -bool NO
