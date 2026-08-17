@@ -6,3 +6,6 @@ defaults write com.apple.screencapture location ${HOME}/Pictures/Screenshots
 
 # Disable the blue on-screen Caps Lock indicator
 sudo defaults write /Library/Preferences/FeatureFlags/Domain/UIKit.plist redesigned_text_cursor -dict-add Enabled -bool NO
+
+# Disable Quick Note pop-up in the lower-right hot corner
+defaults write com.apple.dock wvous-brcorner -int 0
